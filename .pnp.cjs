@@ -92,7 +92,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["debug", "virtual:b86a9fb34323a98c6519528ed55faa0d9b44ca8879307c0b29aa384bde47ff59a7d0c9051b31246f14521dfb71ba3c5d6d0b35c29fffc17bf875aa6ad977d9e8#npm:4.3.4"],\
             ["gensync", "npm:1.0.0-beta.2"],\
             ["json5", "npm:2.2.1"],\
-            ["semver", "npm:6.3.0"]\
+            ["semver", "npm:6.3.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -126,7 +126,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/helper-validator-option", "npm:7.18.6"],\
             ["@types/babel__core", null],\
             ["browserslist", "npm:4.21.4"],\
-            ["semver", "npm:6.3.0"]\
+            ["semver", "npm:6.3.1"]\
           ],\
           "packagePeers": [\
             "@babel/core",\
@@ -3189,7 +3189,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/parser", "npm:7.19.3"],\
             ["@istanbuljs/schema", "npm:0.1.3"],\
             ["istanbul-lib-coverage", "npm:3.2.0"],\
-            ["semver", "npm:6.3.0"]\
+            ["semver", "npm:6.3.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3827,7 +3827,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/make-dir-npm-3.1.0-d1d7505142-484200020a.zip/node_modules/make-dir/",\
           "packageDependencies": [\
             ["make-dir", "npm:3.1.0"],\
-            ["semver", "npm:6.3.0"]\
+            ["semver", "npm:6.3.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -4600,10 +4600,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["semver", [\
-        ["npm:6.3.0", {\
-          "packageLocation": "./.yarn/cache/semver-npm-6.3.0-b3eace8bfd-1b26ecf6db.zip/node_modules/semver/",\
+        ["npm:6.3.1", {\
+          "packageLocation": "./.yarn/cache/semver-npm-6.3.1-bcba31fdbe-ae47d06de2.zip/node_modules/semver/",\
           "packageDependencies": [\
-            ["semver", "npm:6.3.0"]\
+            ["semver", "npm:6.3.1"]\
           ],\
           "linkType": "HARD"\
         }],\
